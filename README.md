@@ -1,7 +1,7 @@
 # FirefoxPasswordCsv4KeePass
 
 ## なにこれ
-Firefoxのパスワードをエクスポートした際に生成されるpasswords.csvを、KeePassへのインポート用へ整形するPythonスクリプト。  
+Firefoxが生成するpasswords.csvを、KeePassへのインポート用へ整形するPythonスクリプト。  
 FireFoxとKeePassとの連携が失敗する、あるいはプラグインを入れたくない人向け。
 
 passwords.csvをそのままインポートすると、列順の編集やUnix epoch timeの変換が必要になる。  
