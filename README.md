@@ -1,0 +1,2 @@
+# FirefoxPasswordCsv2KeePass
+Firefoxのpasswords.csvをKeePass用に整形する
